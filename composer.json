@@ -1,0 +1,16 @@
+{
+    "name": "usuario/proyecto-bst",
+    "description": "proyecto uptaeb",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mfabi03",
+            "email": "mfabisivira03@gmail.com"
+        }
+    ],
+    "require": {}
+}
