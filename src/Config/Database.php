@@ -20,3 +20,4 @@ $this->dbname, $this->user, $this->pass);
  return $this->conn;
  }
 }
+?>
