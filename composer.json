@@ -3,7 +3,7 @@
     "description": "proyecto uptaeb",
     "autoload": {
         "psr-4": {
-            "app\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
